@@ -1,0 +1,11 @@
+{
+  "scripts": {
+    "tsc": "tsc",
+    "tsc:w": "tsc -w",
+    "tsc:i": "tsc --init"
+  },
+  "dependencies": {
+    "typescript": "4.2.3"
+  }
+
+}

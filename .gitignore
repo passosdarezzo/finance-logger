@@ -1,3 +1,10 @@
+# Folder
+/build/ts-built/classes/**
+/build/ts-built/interfaces/**
+/node_modules/**
+
+package-lock.json
+
 # Compiled class file
 *.class
 
